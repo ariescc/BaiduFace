@@ -1,8 +1,8 @@
 from aip import AipFace
 
-APP_ID = '10317971'
-API_KEY = 'IMWQoDHYUxNOqLg4uOUPHEwC'
-SECRET_KEY = 'dorWf1FcRR4fqh0XBqKCzoFbP6cYQgiq'
+APP_ID = 'your app_id'
+API_KEY = 'your api_key'
+SECRET_KEY = 'your secret_key'
 
 aipFace = AipFace(APP_ID, API_KEY, SECRET_KEY)
 
